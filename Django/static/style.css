@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #1d63ed;
+}
+
+body{
+    background-color: #1d63ed;
+    color: white;
+}
+
+.container{
+    background-color: #1d63ed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
