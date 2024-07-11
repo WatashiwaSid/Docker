@@ -93,7 +93,7 @@ Build Dockerimage from Dokcerfile
 
 ## Contributions 💡
 
-- If you have a suggestion that would make this repository better or want to add more applications on this repository, please fork this repo and create a pull request.
+- If you have a suggestion that would make this repository better or want to add more applications on this repository, please fork this repo and create a [pull request](https://github.com/WatashiwaSid/Docker/pulls).
 
-- You can also open an issue.
-- Please make sure you have read Contribution Guideline before submitting a pull request.
+- You can also open an [issue](https://github.com/WatashiwaSid/Docker/issues).
+- Please make sure you have read [Contribution Guideline](https://github.com/WatashiwaSid/Docker/blob/main/CONTRIBUTION.md) before submitting a pull request.
